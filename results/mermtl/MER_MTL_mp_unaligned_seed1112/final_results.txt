@@ -1,0 +1,9 @@
+MER-MTL (DMD-aligned) Results
+TextMode: mp
+Mode: unaligned (unaligned)
+Cls: 7cls, Seed: 1112
+Best Test Acc-7: 42.71%
+Best Test Acc-2: 75.30%
+Best Test F1: 0.6335
+Best Test MAE: 0.9761
+Best Test Corr: 0.6113

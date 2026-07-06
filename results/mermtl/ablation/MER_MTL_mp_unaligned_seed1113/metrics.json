@@ -1,0 +1,17 @@
+{
+  "model": "MER-MTL",
+  "text_mode": "mp",
+  "mode": "unaligned",
+  "cls_mode": "7cls",
+  "seed": 1113,
+  "acc7": 0.4242,
+  "acc2": 0.7805,
+  "f1": 0.6975,
+  "mae": 0.9737,
+  "corr": 0.6326,
+  "f1_binary": 0.6975,
+  "f1_weighted": 0.4182,
+  "mae_class": 0.7609,
+  "acc2_from7": 0.7843,
+  "acc2_direct": 0.7843
+}

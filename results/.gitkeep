@@ -1,0 +1,2 @@
+# This directory stores experiment results
+# Results are organized as: results/{model_name}/{mode}_seed{seed}/metrics.json
