@@ -1,5 +1,5 @@
 """
-DMD Trainer - Fixed version (2026-06-21)
+DMD Trainer
 Complete DMD baseline training with graph distillation.
 Supports both Aligned and Unaligned modes.
 """
